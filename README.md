@@ -1,7 +1,6 @@
 # Website CRUD
 Website ini merupakan contoh dari sistem CRUD yang biasanya digunakan pada website website umum. 
 
-[![Build Status](https://github.com/RizkyWahyudi30/CRUD.svg?branch=master)](https://github.com/RizkyWahyudi30/CRUD)
 
 ## Features CRUD
 - Menambahkan data data yang akan di upload
